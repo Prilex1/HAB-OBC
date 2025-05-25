@@ -12,8 +12,8 @@ I will only count 1h for today's work as I was thinking during lecture hours and
 <br>
 <br>
 <H3> DAY 2 - (24/05/2025) - 2 HOURS </H3>
-I started working on the PCB design for the project. In fact, I will need 2 PCB, the transmitter and the receiver (+ the 3D design for the receiver, like a box). I don't have actual experience working with PCB designing programs. After some research, I chose "EasyEDA" because I was it's one of the easiest software available. Here's a screenshot of the work:
-<img src="/PCB%20Design%20for%20day%202.png" width="500px">
+I started working on the PCB design for the project. In fact, I will need 2 PCB, the transmitter and the receiver (+ the 3D design for the receiver, like a box). I don't have actual experience working with PCB designing programs. After some research, I chose "EasyEDA" because I think it's one of the easiest software available. Here's a screenshot of the work:
+<img src="/images/PCB%20Design-day%202.png" width="500px">
 <br> 
 <br>
 Probably, isn't perfect and I need to make sure everything is fine before sending it to the factory.

@@ -16,4 +16,4 @@ I started working on the PCB design for the project. In fact, I will need 2 PCB,
 <img src="/PCB%20Design%20for%20day%202.png" width="500px">
 <br> 
 <br>
-Probably isn't perfect and I need to make sure everything is fine before sending it to the factory.
+Probably, isn't perfect and I need to make sure everything is fine before sending it to the factory.
